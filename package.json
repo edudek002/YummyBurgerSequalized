@@ -1,0 +1,28 @@
+{
+  "name": "yummyburgersequelized",
+  "version": "1.0.0",
+  "description": "**Goal**",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0",
+    "sequelize": "^4.37.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edudek002/YummyBurgerSequalized.git"
+  },
+  "author": "ED",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edudek002/YummyBurgerSequalized/issues"
+  },
+  "homepage": "https://github.com/edudek002/YummyBurgerSequalized#readme"
+}

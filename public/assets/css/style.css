@@ -1,0 +1,20 @@
+img {
+background-image:url(/assets/img/burgers.png); 
+}
+
+.burgerImage{
+	opacity: 0.50;
+	filter: alpha(opacity=50);
+}
+
+.centered {
+	margin-top: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.red {
+	background: red;
+}
